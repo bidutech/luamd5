@@ -13,7 +13,15 @@ extern "C"
 }
 
 using namespace std;
+/*
+ 
+	   source code
+	   md5：
+	   http://keplerproject.github.io/md5/
+	   https://github.com/shanhai2015/md5
+	   Lua 5.3.3：http://www.lua.org/download.html
 
+*/
 
 int
 lua_get_key(char *url, char *buf,const char * script_name)
