@@ -10,3 +10,10 @@ function getKey(url)
     print(url)
     return sumhexa(url)
 end
+
+
+function getKey2(url)
+    print("run...lua...")
+    print(url)
+    return sumhexa(url),"1.0.0.1"
+end
